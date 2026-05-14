@@ -7,7 +7,7 @@ Air pollution (smoke, gases)
 Water pollution (chemicals, waste in water)
 Soil pollution (toxic substances in land)
 
-But now in this project we are just focusing on pollution realted mortality and water pollution.
+But now in this project we are just focusing on Air pollution and water pollution.
 
 
 # How is Pollution Analysis Useful?
@@ -26,7 +26,7 @@ Raises awareness through data and visualizations
 
 This project focuses on analyzing pollution-related datasets to extract meaningful insights and understand the impact of environmental factors on public health.
 
-The datasets used in this project were collected from platforms like Kaggle and include information on pollution levels and deaths caused by pollution. Multiple datasets (such as water pollution and pollution-related mortality) were combined using data merging techniques (joins) to create a unified dataset for analysis.
+The datasets used in this project were collected from platforms like Kaggle and include information on pollution levels. Multiple datasets (such as water pollution and air pollution) were combined using data merging techniques (joins) to create a unified dataset for analysis.
 
 Data preprocessing was a key part of this project. Missing values were identified using the isnull() function, and appropriate data cleaning techniques were applied. Outliers were detected and handled to ensure the accuracy and reliability of the analysis.
 
